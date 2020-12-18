@@ -5,7 +5,7 @@
 **/.pnp
 .pnp.js
 *.code-workspace
-.rdb
+*.rdb
 # testing
 **/coverage
 
