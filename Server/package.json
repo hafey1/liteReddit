@@ -26,6 +26,7 @@
     "@mikro-orm/core": "^4.3.3",
     "@mikro-orm/migrations": "^4.3.3",
     "@mikro-orm/postgresql": "^4.3.3",
+    "@types/nodemailer": "^6.4.0",
     "apollo-server-express": "^2.19.0",
     "argon2": "^0.27.1",
     "connect-redis": "^5.0.0",

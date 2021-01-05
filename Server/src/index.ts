@@ -21,7 +21,6 @@ import { MyContext } from "./types";
 
 
 const main = async () => {
-
     const orm = await MikroORM.init(microConfig);
     await orm.getMigrator().up(); //automatically runs migrations
     const app = express();
